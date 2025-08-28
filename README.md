@@ -53,7 +53,7 @@ Sample:
 > Make sure the filepath on the terminal is in frontend folder
 
 - Make sure API_URL in src/lib/api.ts points to your backend:
-  !!! change this part if necessary which is on the api.ts:
+  > change this part if necessary which is on the api.ts:
   export const API_URL = "http://localhost:5129/api";
 
 - Run the frontend by typing this to the terminal:

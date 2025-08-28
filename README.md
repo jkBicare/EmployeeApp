@@ -48,9 +48,7 @@ Sample:
 > Open the frontend folder in VS Code.
 
 > Install dependencies in terminal:
-  npm install
-  # or
-  yarn install
+  npm install or yarn install
 
 !!! Make sure the filepath on the terminal is in frontend folder
 
@@ -59,9 +57,7 @@ Sample:
   export const API_URL = "http://localhost:5129/api";
 
 > Run the frontend by typing this to the terminal:
-  npm run dev
-  # or
-  yarn dev
+  npm run dev or yarn dev
 
 > Frontend will start at http://localhost:3000
 
